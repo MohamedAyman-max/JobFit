@@ -1,0 +1,31 @@
+[project]
+name = "jobtrend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "datetime>=6.0",
+    "fastapi>=0.136.0",
+    "flask>=3.1.3",
+    "flask-cors>=6.0.2",
+    "ipykernel>=7.2.0",
+    "ipynb>=0.5.1",
+    "joblib>=1.5.3",
+    "matplotlib>=3.10.8",
+    "numpy>=2.2.6",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "pdfplumber>=0.11.9",
+    "pyarrow>=24.0.0",
+    "pypdf2>=3.0.1",
+    "python-docx>=1.2.0",
+    "python-multipart>=0.0.26",
+    "rapidfuzz>=3.14.5",
+    "scikit-learn>=1.7.2",
+    "scipy>=1.15.3",
+    "seaborn>=0.13.2",
+    "tensorflow>=2.21.0",
+    "uvicorn>=0.45.0",
+    "xgboost>=3.2.0",
+]

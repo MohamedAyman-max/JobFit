@@ -1,0 +1,69 @@
+# ==============
+# Python (backend)
+# ==============
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# ==============
+# Models & Scalers (too large for GitHub)
+# ==============
+*.keras
+*.h5
+*.pkl
+*.npy
+*.joblib
+
+# ==============
+# Data files (optional – keep only if <100MB total)
+# ==============
+*.xlsx
+*.npz
+!requirements.txt  # except this
+# ==============
+# Node.js / Frontend
+# ==============
+frontend/node_modules/
+node_modules/
+**/node_modules/
+# Lock files (should not be committed)
+package-lock.json
+frontend/bun.lockb
+yarn.lock
+pnpm-lock.yaml
+frontend/dist/
+frontend/build/
+frontend/.env
+frontend/.env.local
+frontend/*.log
+frontend/.DS_Store
+
+# ==============
+# IDE & OS
+# ==============
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ==============
+# Misc
+# ==============
+*.bak
+*.tmp
+.env
+.venv

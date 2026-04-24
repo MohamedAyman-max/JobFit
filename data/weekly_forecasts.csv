@@ -1,0 +1,85 @@
+role,week,demand
+Data Analyst,1,69.95999908447266
+Data Analyst,2,74.44000244140625
+Data Analyst,3,75.91000366210938
+Data Analyst,4,82.69999694824219
+Data Analyst,5,85.1500015258789
+Data Analyst,6,90.29000091552734
+Data Analyst,7,93.47000122070312
+Data Analyst,8,96.4800033569336
+Data Analyst,9,98.44000244140625
+Data Analyst,10,99.55999755859375
+Data Analyst,11,100.0
+Data Analyst,12,99.83000183105469
+Business Analyst,1,100.0
+Business Analyst,2,99.7300033569336
+Business Analyst,3,94.88999938964844
+Business Analyst,4,91.4000015258789
+Business Analyst,5,87.54000091552734
+Business Analyst,6,83.83000183105469
+Business Analyst,7,80.13999938964844
+Business Analyst,8,76.55999755859375
+Business Analyst,9,73.06999969482422
+Business Analyst,10,69.69000244140625
+Business Analyst,11,66.44999694824219
+Business Analyst,12,63.349998474121094
+Software Engineer,1,100.0
+Software Engineer,2,84.7699966430664
+Software Engineer,3,77.33000183105469
+Software Engineer,4,73.20999908447266
+Software Engineer,5,70.94000244140625
+Software Engineer,6,69.69999694824219
+Software Engineer,7,69.0199966430664
+Software Engineer,8,68.6500015258789
+Software Engineer,9,68.44000244140625
+Software Engineer,10,68.33999633789062
+Software Engineer,11,68.27999877929688
+Software Engineer,12,68.23999786376953
+Cloud Engineer,1,100.0
+Cloud Engineer,2,85.87000274658203
+Cloud Engineer,3,77.31999969482422
+Cloud Engineer,4,71.81999969482422
+Cloud Engineer,5,68.26000213623047
+Cloud Engineer,6,65.97000122070312
+Cloud Engineer,7,64.4800033569336
+Cloud Engineer,8,63.529998779296875
+Cloud Engineer,9,62.90999984741211
+Cloud Engineer,10,62.52000045776367
+Cloud Engineer,11,62.2599983215332
+Cloud Engineer,12,62.099998474121094
+Machine Learning Engineer,1,79.25
+Machine Learning Engineer,2,78.20999908447266
+Machine Learning Engineer,3,79.91999816894531
+Machine Learning Engineer,4,82.25
+Machine Learning Engineer,5,84.63999938964844
+Machine Learning Engineer,6,87.0
+Machine Learning Engineer,7,89.30999755859375
+Machine Learning Engineer,8,91.56999969482422
+Machine Learning Engineer,9,93.76000213623047
+Machine Learning Engineer,10,95.9000015258789
+Machine Learning Engineer,11,97.9800033569336
+Machine Learning Engineer,12,100.0
+Data Scientist,1,100.0
+Data Scientist,2,95.47000122070312
+Data Scientist,3,92.27999877929688
+Data Scientist,4,90.12999725341797
+Data Scientist,5,88.72000122070312
+Data Scientist,6,87.77999877929688
+Data Scientist,7,87.16999816894531
+Data Scientist,8,86.7699966430664
+Data Scientist,9,86.51000213623047
+Data Scientist,10,86.33999633789062
+Data Scientist,11,86.22000122070312
+Data Scientist,12,86.1500015258789
+Data Engineer,1,100.0
+Data Engineer,2,96.8499984741211
+Data Engineer,3,95.47000122070312
+Data Engineer,4,94.61000061035156
+Data Engineer,5,94.05999755859375
+Data Engineer,6,93.69999694824219
+Data Engineer,7,93.47000122070312
+Data Engineer,8,93.30999755859375
+Data Engineer,9,93.20999908447266
+Data Engineer,10,93.13999938964844
+Data Engineer,11,93.0999984741211
+Data Engineer,12,93.06999969482422
