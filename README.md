@@ -3,19 +3,18 @@
 ```markdown
 # JOBFIT – AI Career Guidance Platform
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-green.svg)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org)
 
 **JOBFIT** is an intelligent, data-driven career guidance system that helps individuals navigate the rapidly changing labour market. It combines job demand forecasting (LSTM), skill extraction, personalised recommendations (5 modes), and ATS‑aware resume analysis into a unified web application.
 
-🔗 **Live Demo:** [https://jobfitcareer.netlify.app](https://jobfitcareer.netlify.app)  
-📊 **Backend API:** [https://jobtrend-backend.onrender.com/docs](https://jobtrend-backend.onrender.com/docs)
+ **Live Demo:** [https://jobfitcareer.netlify.app](https://jobfitcareer.netlify.app)  
+ **Backend API:** [https://jobtrend-backend.onrender.com/docs](https://jobtrend-backend.onrender.com/docs)
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [Problem Statement](#problem-statement)
 - [Key Features](#key-features)
@@ -52,12 +51,12 @@ JOBFIT addresses these gaps by integrating labour market analytics, deep learnin
 
 | Feature | Description |
 |---------|-------------|
-| **📈 Job Demand Forecasting** | 12‑week, role‑specific demand predictions using LSTM neural networks. |
-| **🎯 5 Recommendation Modes** | Demand‑only, Demand+User, Role Trend, Skill‑to‑Skill, Learning Path. |
-| **📄 ATS Resume Analysis** | Upload CV (PDF/DOCX/TXT) → match score vs target role → missing skills ranked by importance. |
-| **🏭 Industry Insights** | Sector‑level trends (Technology, Healthcare, Finance) aggregated from 7 tech roles. |
-| **📊 Interactive Visualisations** | Area charts for demand trends, radar charts for skill gaps, pie/bar charts for market overview. |
-| **⚡ Fast & Lightweight** | Pre‑computed CSV files – no TensorFlow at runtime, ready for cloud deployment. |
+| ** Job Demand Forecasting** | 12‑week, role‑specific demand predictions using LSTM neural networks. |
+| ** 5 Recommendation Modes** | Demand‑only, Demand+User, Role Trend, Skill‑to‑Skill, Learning Path. |
+| ** ATS Resume Analysis** | Upload CV (PDF/DOCX/TXT) → match score vs target role → missing skills ranked by importance. |
+| ** Industry Insights** | Sector‑level trends (Technology, Healthcare, Finance) aggregated from 7 tech roles. |
+| ** Interactive Visualisations** | Area charts for demand trends, radar charts for skill gaps, pie/bar charts for market overview. |
+| ** Fast & Lightweight** | Pre‑computed CSV files – no TensorFlow at runtime, ready for cloud deployment. |
 
 ---
 
